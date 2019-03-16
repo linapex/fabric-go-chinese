@@ -11,6 +11,10 @@ QQ群：721929980
 
 博客：https://my.oschina.net/linapex
 
+公链定制：
+http://jsq.ink
+http://aidapp.vip
+
 
 **Note:** This is a **read-only mirror** of the formal [Gerrit](https://gerrit.hyperledger.org/r/#/admin/projects/fabric) repository,
 where active development is ongoing. Issue tracking is handled in [Jira](https://jira.hyperledger.org/secure/Dashboard.jspa?selectPageId=10104)
